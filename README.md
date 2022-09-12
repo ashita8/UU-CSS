@@ -1,3 +1,3 @@
 # UU-CSS website link
 
-https://uu-css.web.app/
+https://uucsc.netlify.app/index.html
